@@ -11,12 +11,8 @@ Configuração segura da chave de API via arquivo .env
 COMO USAR:
 Clone este repositório
 Crie um arquivo .env com sua chave da OpenAI:
-
 OPENAI_API_KEY=sk-sua-chave-aqui
 Instale as dependências:
-
 pip install openai python-dotenv
-
 Execute o chatbot:
-
 python chatbot.py
