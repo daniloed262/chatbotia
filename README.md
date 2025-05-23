@@ -8,6 +8,8 @@ Uso da API oficial da OpenAI para geração de respostas
 
 Configuração segura da chave de API via arquivo .env
 
+
+
 COMO USAR:
 Clone este repositório
 
